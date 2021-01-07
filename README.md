@@ -1,15 +1,17 @@
 ### Senior Web Developer
 
-- HTML, CSS / SASS / SCSS, JavaScript / TypeScript, Bootstrap
+- JavaScript / TypeScript, Bootstrap, TailWind
 - React, Gatsby, Next, Styled-Components
 - Vue, Vuex, Vuetify, Nuxt
 - Redux Saga, Redux Thunk, Mobx
+- Material UI, Ant Design, Semantic UI
 - RESTful / GraphQL
-- Node / Express
+- Node / Express / Hapi
 - Python / Django
 - Laravel
 - Ruby on Rails
 - MySQL, MongoDB, PostgreSQL
+- Headless CMS ( GraphCMS, Strapi, Contentful, ButterCMS )
 - GitHub, GitLab, Bitbucket, Slack, Trello, JIRA
 - Amazon Web Service
 
