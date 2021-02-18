@@ -3,6 +3,8 @@
 - JavaScript / TypeScript, Bootstrap, TailWind
 - React, Gatsby, Next, Styled-Components
 - Vue, Vuex, Vuetify, Nuxt
+- D3.js, Leaflet.js, Kepler.js, Mapbox, Fabric.js, Highcharts
+- WebGL, Three.js, Babylon.js
 - Redux Saga, Redux Thunk, Mobx
 - Material UI, Ant Design, Semantic UI
 - RESTful / GraphQL
