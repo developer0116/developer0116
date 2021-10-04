@@ -1,21 +1,16 @@
 ### Senior Web Developer
 
-- JavaScript / TypeScript, Bootstrap, TailWind
-- React, Gatsby, Next, Styled-Components
-- Vue, Vuex, Vuetify, Nuxt
-- D3.js, Leaflet.js, Kepler.js, Mapbox, Fabric.js, Highcharts
+- JavaScript, Python, Rust
+- React, Gatsby, Next
+- D3.js, Leaflet.js, Kepler.js, Mapbox, Fabric.js, Cytoscape
 - WebGL, Three.js, Babylon.js
-- Redux Saga, Redux Thunk, Mobx
-- Material UI, Ant Design, Semantic UI
-- RESTful / GraphQL
-- Node / Express / Hapi
+- Web3.js, Ether.js
+- Rust, Solidity
 - Python / Django
-- Laravel
-- Ruby on Rails
 - MySQL, MongoDB, PostgreSQL
 - Headless CMS ( GraphCMS, Strapi, Contentful, ButterCMS )
-- GitHub, GitLab, Bitbucket, Slack, Trello, JIRA
-- Amazon Web Service
+- AWS, GCP
+- Terraform, Docker, K8s
 
 **Languages and Tools:**
 
