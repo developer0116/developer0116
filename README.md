@@ -1,6 +1,6 @@
 ### Senior Software Engineer
 
-- JS/TS, Rust, Python, Solidity, Golang
+- JS/TS, Rust, Python, Solidity, Golang, C++
 - Ethereum, Polkadot, Solana, Polygon, Cosmos
 - Django, FastAPI
 - Express, Hapi
