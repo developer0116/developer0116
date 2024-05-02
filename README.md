@@ -8,4 +8,5 @@
 - Terraform, Docker, K8s
 - React, Next, Vue, Nuxt
 - Redux-toolkit, Zustand
-- WebGL, Three.js, D3.js, Kepler.js, Mapbox
+- Mapbox, Kepler.js, MapLibre GL
+- WebGL, Three.js, D3.js, Cytoscape.js, Fabric.js
